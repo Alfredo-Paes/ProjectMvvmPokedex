@@ -18,7 +18,7 @@ A aplicação foi desenvolvida com a linguagem Kotlin, para dispositivos Android
 <div style="display: flex; flex-flow:"row">
   <img src="docs/screen01.png" height="310" width="180">
   <img src="docs/screen02.png" height="310" width="180">
-  <img src="docs/screen02.png" height="310" width="180">
+  <img src="docs/screen03.png" height="310" width="180">
 </div>
 
 ## Vídeo de demonstração:
