@@ -13,6 +13,7 @@ A aplicação foi desenvolvida com a linguagem Kotlin, para dispositivos Android
 - Android Strudio: https://developer.android.com/studio/intro?hl=pt-br
 - JUnit: https://junit.org/junit5/
 - Dagger: https://dagger.dev/hilt/
+- PokeAPI: https://pokeapi.co/
 
 ## Imagens:
 <div style="display: flex; flex-flow:"row">
@@ -22,7 +23,7 @@ A aplicação foi desenvolvida com a linguagem Kotlin, para dispositivos Android
 </div>
 
 ## Vídeo de demonstração:
-
+https://youtu.be/ieWUhMNIf_8
 
 ### Autor:
 - Alfredo Paes da Luz.
